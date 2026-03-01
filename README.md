@@ -1,7 +1,6 @@
 # Biomed Data Analyzer
 **CS50P Final Project: ECG Curve Analyzer**
 
-#### Video Demo: [Watch on YouTube](https://youtu.be/InoyROAg8Tk)
 
 ## Description
 As a future biomedical engineer, I chose this topic to learn and discover how to work with biosignals, their processing, and subsequent display. My final project deals with reading and processing ECG signals and subsequent detection of R peaks to determine BPM (beats per minute).
